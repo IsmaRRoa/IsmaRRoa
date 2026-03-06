@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ismael 👋
 
-<!--
-**IsmaRRoa/IsmaRRoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student at UVEG studying Computer Systems Engineering.
 
-Here are some ideas to get you started:
+## Interests
+- Linux
+- Networking
+- System Administration
+- Homelab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Homelab
+- Plex media server
+- Nextcloud
+- Pi-hole
+- Docker containers
+
+## Learning
+- Bash scripting
+- Networking fundamentals
+- Linux administration
