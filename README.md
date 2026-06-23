@@ -3,6 +3,7 @@
 IT student at UVEG studying Computer Systems Engineering.
 
 ## Interests
+- Python
 - Linux
 - Networking
 - System Administration
@@ -15,6 +16,7 @@ IT student at UVEG studying Computer Systems Engineering.
 - Docker containers
 
 ## Learning
+- Python
 - Bash scripting
 - Networking fundamentals
 - Linux administration
